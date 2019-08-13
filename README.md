@@ -17,6 +17,11 @@ Components
 * [Symfony MakerBundle][10]
 * [StofDoctrineExtensionsBundle][11] NestedTree
 
+Issues
+------
+
+* composer add assets as root user
+
 [1]: https://hub.docker.com/_/php
 [2]: https://hub.docker.com/_/mariadb
 [3]: https://hub.docker.com/r/phpmyadmin/phpmyadmin/
