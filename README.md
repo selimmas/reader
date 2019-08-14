@@ -17,6 +17,24 @@ Components
 * [Symfony MakerBundle][10]
 * [StofDoctrineExtensionsBundle][11] NestedTree
 
+Install
+-------
+
+```
+docker-compose build
+docker-compose up -d
+chmod a+x bin/reader
+```
+
+Usage
+-----
+
+* Run commands
+
+```
+docker-compose run --rm php bin/reader
+```
+
 Issues
 ------
 
