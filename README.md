@@ -29,8 +29,6 @@ chmod a+x bin/reader
 Usage
 -----
 
-* Run commands
-
 ```
 docker-compose run --rm php bin/reader
 ```
